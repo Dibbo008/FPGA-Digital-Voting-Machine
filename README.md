@@ -5,9 +5,9 @@ A robust Verilog-based Electronic Voting System implemented on an FPGA. This pro
 
  - *​Voter Authentication: Limits voting to valid IDs (0-9).*
  - ​*Security: Prevents "double-voting" by tracking individual voter status in a registry.*
-​ - *Real-time Processing: Live vote counts displayed during the session.*
-​ - *Auto-Winner Logic: Upon completion, the system automatically identifies and displays the Winner and Runner-up.*
-​ - *Hardware Optimized: Includes button debouncing and time-multiplexed 7-segment display control.*
+ - *Real-time Processing: Live vote counts displayed during the session.*
+ - *Auto-Winner Logic: Upon completion, the system automatically identifies and displays the Winner and Runner-up.*
+ - *Hardware Optimized: Includes button debouncing and time-multiplexed 7-segment display control.*
 
 ## Hardware Requirements
 
