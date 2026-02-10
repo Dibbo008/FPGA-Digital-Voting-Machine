@@ -15,11 +15,4 @@ A robust Verilog-based Electronic Voting System implemented on an FPGA. This pro
  - *Inputs: 8x Switches (Rep Selection & Voter ID), 3x Push Buttons (Vote, Finish, Reset).*
  - *Outputs: 4-Digit 7-Segment Display, 1x Error LED.*
 
-## How to Run
 
-​- *Open Xilinx Vivado.*
-- *Create a new project and select your FPGA board.*
-- *Add voting_machine.v as a design source.*
-- *Add constraints.xdc as a constraint file.*
-- *Run Synthesis, Implementation, and Generate Bitstream.*
-- *Program the board and start voting!*
